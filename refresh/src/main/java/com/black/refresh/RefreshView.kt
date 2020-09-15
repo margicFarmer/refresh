@@ -1,9 +1,10 @@
-package com.black.lib.refresh
+package com.black.refresh
 
 import android.content.Context
 import android.util.AttributeSet
 import android.view.Gravity
 import android.widget.RelativeLayout
+import com.black.refresh.Refresh
 
 /**
  * Created by zhangxiaoqi on 2019/4/22.

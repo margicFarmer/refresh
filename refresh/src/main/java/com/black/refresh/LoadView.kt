@@ -1,4 +1,4 @@
-package com.black.lib.refresh
+package com.black.refresh
 
 import android.content.Context
 import android.util.AttributeSet

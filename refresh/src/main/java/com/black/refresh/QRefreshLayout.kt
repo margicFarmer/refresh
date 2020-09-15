@@ -1,4 +1,4 @@
-package com.black.lib.refresh
+package com.black.refresh
 
 import android.animation.ValueAnimator
 import android.content.Context

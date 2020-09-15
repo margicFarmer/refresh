@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.black.lib.refresh.QRefreshLayout
+    <com.black.refresh.QRefreshLayout
         android:id="@+id/refresh"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -26,6 +26,6 @@
                     android:layout_height="wrap_content" />
             </LinearLayout>
         </androidx.core.widget.NestedScrollView>
-    </com.black.lib.refresh.QRefreshLayout>
+    </com.black.refresh.QRefreshLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

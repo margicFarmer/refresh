@@ -3,7 +3,7 @@ package com.black.refresh.demo
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.black.lib.refresh.QRefreshLayout
+import com.black.refresh.QRefreshLayout
 
 class MainActivity : AppCompatActivity(), QRefreshLayout.OnRefreshListener, QRefreshLayout.OnLoadListener, QRefreshLayout.OnLoadMoreCheckListener {
     var refreshLayout: QRefreshLayout? = null

@@ -11,9 +11,9 @@ import android.view.animation.AnimationUtils
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.TextView
-import com.black.lib.refresh.LoadView
-import com.black.lib.refresh.RefreshHolder
-import com.black.lib.refresh.RefreshView
+import com.black.refresh.LoadView
+import com.black.refresh.RefreshHolder
+import com.black.refresh.RefreshView
 
 class RefreshHolderSimple(context: Context) : RefreshHolder(context) {
     private var refreshView: RefreshView? = null

@@ -1,4 +1,4 @@
-package com.black.lib.refresh
+package com.black.refresh
 
 /**
  * Created by zhangxiaoqi on 2019/4/22.
